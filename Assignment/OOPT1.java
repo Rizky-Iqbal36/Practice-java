@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 /**
- * @author 1202290016 - Muhammad Rizky Iqbal Syaifullah
+ * @author 1201190016 - Muhammad Rizky Iqbal Syaifullah
  * @apiNote for best use, please see this condition (width and height more than
  *          equal 5)
  */
